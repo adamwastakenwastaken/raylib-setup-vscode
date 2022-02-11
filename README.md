@@ -12,3 +12,6 @@ put the cpp properties file thingu in a folder named ".vscode"
 Thats it
 
 I hope u found this useful :D BYE >_<
+
+**Important!!**
+**make sure mingw is installed otherwise the command "mingw32-make" aka the compiler command wont work and the app will be unusable**
